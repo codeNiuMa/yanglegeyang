@@ -7,6 +7,7 @@
 微信左下角 -> 设置 -> 文件管理 -> 打开文件夹
 ![openfile](https://github.com/codeNiuMa/yanglegeyang/blob/main/img-lib/Snipaste_2022-09-16_09-58-45.jpg)
 
+
 ***
 打开后进入当前登录的微信数据文件夹
 ![datafile](https://github.com/codeNiuMa/yanglegeyang/blob/main/img-lib/Snipaste_2022-09-16_10-01-23.jpg)
