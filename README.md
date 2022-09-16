@@ -5,6 +5,7 @@
 
 ## 2、进入当前登录的微信数据文件夹
 微信左下角 -> 设置 -> 文件管理 -> 打开文件夹
+![openfile](https://github.com/codeNiuMa/yanglegeyang/blob/main/img-lib/Snipaste_2022-09-16_09-58-45.jpg)
 
 ## 3、进入当前登录微信数据文件夹后，依次进入
 \Applet\wx141bfb9b73c970a9\usr\gamecaches\resources
