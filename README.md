@@ -27,3 +27,5 @@
 我的电脑是16632884479734.json文件，用记事本打开，清空里面内容，将new.txt文件中的代码复制进此json文件，保存关闭
 
 之后打开游戏，仅需要完成4次第一关九宫格样式即可加入羊群！
+
+![finish](https://github.com/codeNiuMa/yanglegeyang/blob/main/img-lib/9993c3ac88b4a06f473a4dd3109cdb6.png)
