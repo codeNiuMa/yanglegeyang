@@ -24,6 +24,6 @@
 
 ![json](https://github.com/codeNiuMa/yanglegeyang/blob/main/img-lib/Snipaste_2022-09-16_10-04-56.jpg)
 
-我的电脑是16632884479734.json文件，用记事本打开，清空里面内容，将new.txt文件中的代码复制进此json文件，保存关闭，大功告成！
+我的电脑是16632884479734.json文件，用记事本打开，清空里面内容，将new.txt文件中的代码复制进此json文件，保存关闭
 
-
+之后打开游戏，仅需要完成4次第一关九宫格样式即可加入羊群！
