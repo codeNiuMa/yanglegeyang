@@ -30,3 +30,8 @@
 之后打开游戏，仅需要完成4次第一关九宫格样式即可加入羊群！
 
 ![finish](https://github.com/codeNiuMa/yanglegeyang/blob/main/img-lib/9993c3ac88b4a06f473a4dd3109cdb6.png)
+
+***
+***
+***
+lx康，knyknykny！
