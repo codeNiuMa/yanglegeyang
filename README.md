@@ -1,6 +1,5 @@
 # 9.28 已失效 暂时找不到json文件了
 ***
-***
 注意此教程需要通过电脑端完成
 
 # 操作步骤
@@ -34,7 +33,5 @@
 
 ![finish](https://github.com/codeNiuMa/yanglegeyang/blob/main/img-lib/9993c3ac88b4a06f473a4dd3109cdb6.png)
 
-***
-***
-***
-lx康，knyknykny！
+
+
